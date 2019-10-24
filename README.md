@@ -9,7 +9,6 @@ ________________________________________________________________________________
 ##### guide for run pywal
  
  >1. Open the `Corel` app and close the basic help page(Fullscreen)
-  ![Philadelphia's Magic Gardens. This place was so cool!](/1572.jpg "Philadelphia's Magic Gardens")
  
  >2.Run `Pwall`
  
