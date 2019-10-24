@@ -10,8 +10,8 @@ ________________________________________________________________________________
  
  >1. Open the `Corel` app and close the basic help page(Fullscreen)
  
- >2.Run `Pivall`
  
+ >2.Run `Pwall`
  
 **Attention** >>After the `alert!! 11011` you have a few moments to select the environment where you want the commands to run (Must be the current window)
 
