@@ -13,5 +13,5 @@ ________________________________________________________________________________
  >2.Run `Pivall`
  
  
-**Attention** />>After the `alert!! 11011` you have a few moments to select the environment where you want the commands to run (Must be the current window)
+**Attention** >>After the `alert!! 11011` you have a few moments to select the environment where you want the commands to run (Must be the current window)
 
