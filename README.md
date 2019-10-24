@@ -11,5 +11,8 @@ ________________________________________________________________________________
  >1. Open the `Corel` app and close the basic help page(Fullscreen)
  
  >2.Run `Pivall`
+ 
+ 
+ 
  **Attention**
  * After the `alert!! 11011` you have a few moments to select the environment where you want the commands to run (which should be CorelDraw)
